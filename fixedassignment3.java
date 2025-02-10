@@ -61,7 +61,7 @@ public class Assignment_3 {
 
         fibonacci_sequence();
 
-        System.out.println("The max value is: " + max_value(93, 94, 95));
+        System.out.println("The max value is: " + max_value(93847, 930349, 937289));
 
     }
 
